@@ -11,7 +11,9 @@ To set up you'll need to have the following installed:
 * Virtualenv
 
 To create a virutal environment:`virtualenv venv`
+
 Activate with: `source venv/bin/activate`
+
 Exit Venv with `deactivate`
 
 Install the python dependencies:
