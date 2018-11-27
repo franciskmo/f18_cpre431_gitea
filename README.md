@@ -8,6 +8,11 @@ This repo includes a modified version of the script written by Kacper, the neces
 To set up you'll need to have the following installed:
 * Python 2.7
 * Pip
+* Virtualenv
+
+To create a virutal environment:`virtualenv venv`
+Activate with: `source venv/bin/activate`
+Exit Venv with `deactivate`
 
 Install the python dependencies:
 `pip install -r requirements.txt`
