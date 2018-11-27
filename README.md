@@ -13,4 +13,4 @@ Install the python dependencies:
 `pip install -r requirements.txt`
 
 To run:
-`python2.7 exploit.py <Address of gitea server> <Path to sh script>
+`python2.7 exploit.py <Address of gitea server> <Path to sh script>`
