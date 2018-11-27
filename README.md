@@ -21,3 +21,6 @@ Install the python dependencies:
 
 To run:
 `python2.7 exploit.py <Address of gitea server> <Path to sh script>`
+
+For example to run on a local gitea server with our provided bash script:
+`python2.7 exploit.py http://localhost:3000/ script.sh`
